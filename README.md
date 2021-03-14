@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yigiteren
+- 👀 I’m interested in Game Development!
+- 🌱 I’m currently learning Blender
