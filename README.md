@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @yigiteren
+- 👋 Hi, I’m Yiğit Eren!
 - 👀 I’m interested in Game Development!
 - 🌱 I’m currently learning Blender
