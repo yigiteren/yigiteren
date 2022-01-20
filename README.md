@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yiğit Eren!
 - 🎮 I’m interested in Game Development!
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React!
