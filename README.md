@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Yiğit Eren!
-- 🎮 I’m interested in Game Development!
-- 🌱 I’m currently learning React!
+- 🎮 I’m interested in Game Development and I am a certified professional Unity developer!
