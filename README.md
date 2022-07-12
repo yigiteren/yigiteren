@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Yiğit Eren!
-- 🎮 I’m interested in Game Development and I am a certified professional Unity developer!
+- 🎮 I am a certified professional Unity programmer.
+- 🌎 I am currently learning Svelte and TailwindCSS as a side hustle.
+- 💻 I am currently working at TaleWorlds as an intern.
